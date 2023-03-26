@@ -1,0 +1,10 @@
+EcmaScript----ES15
+Let vs Const (var)
+Default Parameter
+Arrow Function =>
+OOP
+Spread Operator (...)
+forEach, Map
+JSON Data
+ Array Filter - Object Assing
+
